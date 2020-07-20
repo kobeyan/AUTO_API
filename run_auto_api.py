@@ -19,7 +19,6 @@ def get_all_cases():
     all_cases_suite.addTest(discover)
     return all_cases_suite
 
-
 report_dir = HTMLTestReportCN.ReportDirectory( Local_cfg.REPORT_PATH + '/' )
 
 report_dir.create_dir('API_TEST_')
