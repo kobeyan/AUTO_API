@@ -9,7 +9,6 @@ import os
 pro_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 config_path = os.path.join(pro_path,"config/config.ini")
 
-
 class Localconfig_Utils():
 
     def __init__(self,cfg_path = config_path):
