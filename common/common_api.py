@@ -44,4 +44,3 @@ def creart_user_tag_api(session,tagname):
         headers = headers
     )
     return add_tag_response
-
