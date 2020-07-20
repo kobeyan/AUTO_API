@@ -40,7 +40,6 @@ class Log_utils():
     def get_logger(self):
         return self.logger
 
-
 Logger = Log_utils().get_logger()
 
 if __name__ == '__main__':
