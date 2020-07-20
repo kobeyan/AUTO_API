@@ -8,7 +8,6 @@ import requests
 from common.localconfig_utils import Local_cfg
 
 
-
 def get_access_token_api(session,grant_type,appid,secret):
 
     params = {
