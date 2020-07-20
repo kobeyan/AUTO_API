@@ -13,7 +13,6 @@ The simplest way to use this is to invoke its main method. E.g.
     if __name__ == '__main__':
         HTMLTestRunner.main()
 
-
 For more customization options, instantiates a HTMLTestRunner object.
 HTMLTestRunner is a counterpart to unittest's TextTestRunner. E.g.
 
