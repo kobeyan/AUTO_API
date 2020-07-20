@@ -102,9 +102,4 @@
 2020-07-19 21:43:56,116-create_tag_cases_new.py[line:22]-INFO:开始测试创建用户标签
 2020-07-19 21:44:50,722-get_token_cases_new.py[line:30]-INFO:开始测试正常获取access_token
 2020-07-19 21:44:50,859-get_token_cases_new.py[line:39]-INFO:开始测试获取access_token时secret错误
-2020-07-19 21:44:50,915-create_tag_cases_new.py[line:30]-INFO:开始测试创建用户标签
-2020-07-19 21:44:51,029-create_tag_cases_new.py[line:22]-INFO:开始测试创建用户标签
-2020-07-19 21:46:32,606-get_token_cases_new.py[line:30]-INFO:开始测试正常获取access_token
-2020-07-19 21:46:32,779-get_token_cases_new.py[line:39]-INFO:开始测试获取access_token时secret错误
-2020-07-19 21:46:32,845-create_tag_cases_new.py[line:30]-INFO:开始测试创建用户标签
-2020-07-19 21:46:32,990-create_tag_cases_new.py[line:22]-INFO:开始测试创建用户标签
+
